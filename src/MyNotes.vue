@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>zametki:{{newOneNode}}</h2>
+    <h2>zametki::::::::{{newOneNode}}</h2>
     <strong>Prochitano</strong>
   </div>
 </template>
